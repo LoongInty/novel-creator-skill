@@ -1,0 +1,44 @@
+{
+  "chapter_file": "第10章.md",
+  "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第10章.md",
+  "chapter_no": 10,
+  "mtime": 1783343795.9806514,
+  "summary": "# 第10章 原点 非洲东海岸的黎明是红色的。 不是朝霞的红，是被烧过的土地上浮尘反射日光的颜色。战争已经把这片大陆的表皮烧掉了一层。沈渊站在货轮的甲板上看海岸线从一条线变成一面墙，然后墙上的细节慢慢显现——被炸断的港口起重机、倾斜的集装箱、沙滩上搁浅的报废军舰。 有一个细节是他没预料到的。沙滩是白色的。但白色下面，如果仔细看，有一种淡得不正常的灰。核沉降物。不太多了，但还在。 「那就是非洲？」苏晚站在他旁边，肩上还挎着那个旧背包。 「",
+  "entities": [],
+  "events": [
+    "封印"
+  ],
+  "locations": [
+    "被炸断的港",
+    "说是港",
+    "一条临时搭建的浮筒栈桥",
+    "战后这里的港",
+    "平台的材质和沈渊在城"
+  ],
+  "foreshadow_refs": [
+    "线索",
+    "暗号：圆周率"
+  ],
+  "keywords": [
+    "沈渊",
+    "苏晚",
+    "有一",
+    "了一",
+    "数据",
+    "观测",
+    "测站",
+    "观测站",
+    "是一",
+    "没有",
+    "屏幕",
+    "看着",
+    "辐射",
+    "控制",
+    "一条",
+    "里的",
+    "他的",
+    "摩托"
+  ],
+  "conflict_level": "high",
+  "meta_file": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/00_memory/retrieval/chapter_meta/第10章.meta.json"
+}

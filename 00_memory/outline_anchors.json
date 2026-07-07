@@ -1,0 +1,108 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-07-06T21:00:47.686181",
+  "total_chapters_target": 857,
+  "total_volumes": 7,
+  "current_chapter": 1,
+  "current_volume": 1,
+  "progress_percent": 0.12,
+  "volumes": [
+    {
+      "volume": 1,
+      "title": "卷",
+      "chapter_range": [
+        1,
+        40
+      ],
+      "core_conflict": "孤儿院的影子",
+      "must_not_reveal": [],
+      "must_achieve": [],
+      "foreshadows_to_plant": []
+    },
+    {
+      "volume": 1,
+      "title": "名同伴 → 前往非洲",
+      "chapter_range": [
+        1,
+        5
+      ],
+      "core_conflict": "[ ] **",
+      "must_not_reveal": [],
+      "must_achieve": [],
+      "foreshadows_to_plant": []
+    },
+    {
+      "volume": 2,
+      "title": "卷",
+      "chapter_range": [
+        41,
+        110
+      ],
+      "core_conflict": "燃烧大陆",
+      "must_not_reveal": [],
+      "must_achieve": [],
+      "foreshadows_to_plant": []
+    },
+    {
+      "volume": 47,
+      "title": "号\"酒鬼\"：落魄雇佣兵，嗜酒如命枪法如神",
+      "chapter_range": [
+        96,
+        110
+      ],
+      "core_conflict": "[ ] **",
+      "must_not_reveal": [],
+      "must_achieve": [],
+      "foreshadows_to_plant": []
+    },
+    {
+      "volume": 3,
+      "title": "卷",
+      "chapter_range": [
+        111,
+        210
+      ],
+      "core_conflict": "归巢",
+      "must_not_reveal": [],
+      "must_achieve": [],
+      "foreshadows_to_plant": []
+    },
+    {
+      "volume": 49,
+      "title": "号最后加入的成员舍身挡致命一击",
+      "chapter_range": [
+        181,
+        210
+      ],
+      "core_conflict": "[ ] **",
+      "must_not_reveal": [],
+      "must_achieve": [],
+      "foreshadows_to_plant": []
+    },
+    {
+      "volume": 4,
+      "title": "卷",
+      "chapter_range": [
+        211,
+        280
+      ],
+      "core_conflict": "门",
+      "must_not_reveal": [],
+      "must_achieve": [],
+      "foreshadows_to_plant": []
+    }
+  ],
+  "global_forbidden_reveals": [
+    "终极BOSS身份"
+  ],
+  "mandatory_tension": "至少保留一个未解决冲突进入下一章",
+  "current_node": {
+    "volume": 1,
+    "chapter": 1,
+    "allowed_plot_range": "当前卷允许推进区间：第1-40章的卷内冲突，不得提前收束终局主线",
+    "forbidden_reveals": [
+      "终极BOSS身份"
+    ],
+    "mandatory_tension": "至少保留一个未解决冲突进入下一章"
+  }
+}

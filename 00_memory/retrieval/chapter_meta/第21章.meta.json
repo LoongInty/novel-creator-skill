@@ -1,0 +1,49 @@
+{
+  "chapter_file": "第21章.md",
+  "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第21章.md",
+  "chapter_no": 21,
+  "mtime": 1783345243.9030073,
+  "summary": "# 第21章 老哑巴的第128页 老哑巴的笔记是一本没有封面的旧书。纸张泛黄，边缘卷曲，装订线断过又重新缝过。沈渊在离开孤儿院之前就把它塞进了背包的最底层。在非洲的一年半里，他翻过它。不是从头到尾——是跳着翻。因为书里的内容太杂了，前半本是理论物理的公式推导，后半本是手绘的能量场示意图，中间夹杂着一些几乎不像中文的草书批注。他当时觉得这本书的价值在于前半本——那些关于能量不守恒的早期猜想，和他父亲后来在门扉计划里用的理论框架是一脉相承的",
+  "entities": [
+    "001",
+    "编号"
+  ],
+  "events": [
+    "身份",
+    "回收",
+    "封印"
+  ],
+  "locations": [
+    "蒙巴萨港区",
+    "难民营档案里冒出名字的街",
+    "第三条街",
+    "离零号基地最近的港口城",
+    "等沈渊自己决定要不要走到桥",
+    "桥是人在桥"
+  ],
+  "foreshadow_refs": [
+    "编号001"
+  ],
+  "keywords": [
+    "沈渊",
+    "没有",
+    "了一",
+    "哑巴",
+    "面的",
+    "对面",
+    "知道",
+    "桥对",
+    "桥对面",
+    "来的",
+    "渊把",
+    "沈渊把",
+    "的人",
+    "老哑",
+    "老哑巴",
+    "为他",
+    "因为他",
+    "的时"
+  ],
+  "conflict_level": "unknown",
+  "meta_file": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/00_memory/retrieval/chapter_meta/第21章.meta.json"
+}

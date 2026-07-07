@@ -1,0 +1,132 @@
+{
+  "checked_at": "2026-07-06 21:43:09",
+  "project_root": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill",
+  "chapter_file": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第22章.md",
+  "chapter_id": "第22章",
+  "passed": true,
+  "checks": [
+    {
+      "name": "chapter_storage_policy",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第22章.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "knowledge_base_isolation",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/02_knowledge_base",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "memory_update",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第22章/memory_update.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "consistency_report",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第22章/consistency_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "style_calibration",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第22章/style_calibration.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "copyedit_report",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第22章/copyedit_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "publish_ready",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第22章/publish_ready.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "quality_report",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第22章/quality_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "publish_ready_keyword",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第22章/publish_ready.md",
+      "ok": true,
+      "message": "命中发布关键字: 通过"
+    },
+    {
+      "name": "quality_baseline",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第22章/quality_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "anti_resolution_guard",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第22章.md",
+      "ok": true,
+      "message": "通过",
+      "details": {
+        "tail_suspense": {
+          "has_suspense": false,
+          "hits": [],
+          "tail_length": 200
+        },
+        "resolution_signals": {
+          "signal_count": 0,
+          "signals": [],
+          "risk": "low"
+        },
+        "forbidden_reveals": {
+          "revealed_count": 0,
+          "revealed": []
+        },
+        "quota_abc": {
+          "quota_a": {
+            "label": "A（主线矛盾推进）",
+            "triggered": false,
+            "hits": []
+          },
+          "quota_b": {
+            "label": "B（主要关系升级）",
+            "triggered": false,
+            "hits": []
+          },
+          "quota_c": {
+            "label": "C（核心秘密揭露）",
+            "triggered": false,
+            "hits": []
+          },
+          "triggered_count": 0,
+          "triggered_quotas": []
+        }
+      }
+    },
+    {
+      "name": "pacing_tracker",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/00_memory/pacing_history.json",
+      "ok": true,
+      "message": "通过",
+      "details": {
+        "chapter": 22,
+        "volume": null,
+        "stats": {}
+      }
+    },
+    {
+      "name": "pacing_review_semantic",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第22章/pacing_review.md",
+      "ok": true,
+      "message": "通过"
+    }
+  ],
+  "failures": [],
+  "warnings": [
+    "anti_resolution_guard: 章末未检测到悬念元素，建议添加钩子",
+    "pacing_tracker: 尚无节奏记录，跳过档位分布校验"
+  ]
+}

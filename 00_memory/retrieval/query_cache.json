@@ -59,6 +59,219 @@
           "命中剧情关键词:冲突"
         ]
       }
+    },
+    "706407df9a7c97bf4e3aec089d6b498708cf943c": {
+      "saved_at": "2026-07-06 21:31:14",
+      "result": {
+        "query": "复兴学院 顾念 林北 纪云书 地下设施 顾风 门扉计划",
+        "query_entities": [],
+        "index_signature": "18-cfdeb4782fa5d982",
+        "retrieved": [
+          {
+            "score": 10.9,
+            "reason": {
+              "token_overlap": 7,
+              "summary_overlap": 6,
+              "entity_overlap": 0,
+              "event_overlap": 0,
+              "recency": 1.0,
+              "conflict_bonus": 0.0
+            },
+            "chapter_file": "第18章.md",
+            "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第18章.md",
+            "summary": "# 第18章 复兴学院 中国。新安。在离开整整一年半之后。 沈渊站在城南秀水国际学校门口。学校在战后被征用为临时福利机构的时候，就是他匿名资助的那家。现在学校已经恢复了正常的教学。而周奶奶在办公室里挂了一个相框——照片是在孤儿院还没被烧毁的那个秋天拍的，梧桐树，草茎，靠在树干上的沈渊。她听人说沈渊去了很远的地方。她没追问。她只是把那个橘子放在照片前面。每一个秋季。都是新鲜的橘子。 沈渊没有进去。他现在有另一个任务。 复兴学院坐落在新安市北部的一片工业园区旧址上。战前这里是芯片工厂的聚集地，战后工厂被炸了，地皮被划给",
+            "entities": [],
+            "events": [
+              "秘密"
+            ],
+            "locations": [
+              "城南秀水国际学校",
+              "沈渊站在城南秀水国际学校",
+              "现在学校",
+              "战前这里是芯片工厂",
+              "战后工厂"
+            ],
+            "foreshadow_refs": [
+              "名单",
+              "名单上抹掉的"
+            ],
+            "passages": [
+              {
+                "score": 8.0,
+                "reason": {
+                  "token_overlap": 8,
+                  "entity_overlap": 0
+                },
+                "text": "「苏晚。复兴学院地下有秘密设施。电磁屏蔽层厚度足够挡住军舰级别的扫描。另外，他们给我打了一个S级的评估。」"
+              },
+              {
+                "score": 7.0,
+                "reason": {
+                  "token_overlap": 7,
+                  "entity_overlap": 0
+                },
+                "text": "复兴学院坐落在新安市北部的一片工业园区旧址上。战前这里是芯片工厂的聚集地，战后工厂被炸了，地皮被划给教育部。说是学院，其实是战后重建计划下的人才筛选机构——从全国各个角落挖掘被战争埋没的天才少年。入学门槛不是成绩，是筛选系统自己定的算法。算法没人看得懂，据说是军方遗留下来的一套评估逻辑。沈渊被系统选中，不是因为他伪造的背景档案——档案是真的，但不是他的——被选中是因为他在档案上隐去的所有信息刚好都是不能隐去的那种。他填的表格上有很多奇怪..."
+              }
+            ]
+          },
+          {
+            "score": 9.867,
+            "reason": {
+              "token_overlap": 6,
+              "summary_overlap": 6,
+              "entity_overlap": 0,
+              "event_overlap": 0,
+              "recency": 0.222,
+              "conflict_bonus": 0.2
+            },
+            "chapter_file": "第4章.md",
+            "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第4章.md",
+            "summary": "# 第4章 父亲的名字 沈渊看着面前这个穿白大褂的女人，脑子里十几个思路同时运转。 她不惊讶。一个十一岁的孩子半夜出现在地下设施里，她没有呼叫警卫，没有按下警报，甚至没有后退一步。她端茶杯的手稳得像是在实验室里喝下午茶。 这说明两件事。 第一，她见过比这更奇怪的事。第二，她认识他父亲。 「你叫什么名字？」沈渊问。 「这话应该我问你。」女人喝了一口茶，目光在他脸上停了两秒，「不过我已经知道答案了。你叫沈渊，十一岁，住在城南的孤儿院。父亲沈时安，母亲顾清湄，战前都是第一研究所的高级研究员。」 沈渊沉默了零点三秒。 「你",
+            "entities": [
+              "编号"
+            ],
+            "events": [
+              "回忆"
+            ],
+            "locations": [
+              "黎明前到了城",
+              "这座废墟之城",
+              "半塌的楼",
+              "住在城",
+              "他在黎明前到了城",
+              "那栋只剩下骨架的高楼"
+            ],
+            "foreshadow_refs": [
+              "坐标数据",
+              "编号"
+            ],
+            "passages": [
+              {
+                "score": 6.0,
+                "reason": {
+                  "token_overlap": 6,
+                  "entity_overlap": 0
+                },
+                "text": "她不惊讶。一个十一岁的孩子半夜出现在地下设施里，她没有呼叫警卫，没有按下警报，甚至没有后退一步。她端茶杯的手稳得像是在实验室里喝下午茶。"
+              },
+              {
+                "score": 6.0,
+                "reason": {
+                  "token_overlap": 6,
+                  "entity_overlap": 0
+                },
+                "text": "「我叫温岚。你现在所在的这个地方，是门扉计划的第七观测站。」"
+              }
+            ]
+          },
+          {
+            "score": 4.35,
+            "reason": {
+              "token_overlap": 4,
+              "summary_overlap": 0,
+              "entity_overlap": 0,
+              "event_overlap": 0,
+              "recency": 0.5,
+              "conflict_bonus": 0.2
+            },
+            "chapter_file": "第9章.md",
+            "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第9章.md",
+            "summary": "# 第9章 燃烧的大陆 海望号在中东卸了一批援助物资之后，转向南行。甲板上多了一批柴油桶和一些从波斯湾沿岸搭载的战后难民——大部分是女人和老人，男人都死在战争中了。 沈渊注意到一个细节。船上的一个\"难民\"，从上船开始就没有说过一句话。他每天固定坐在货舱角落里，身边放着一个破旧的帆布包。苏晚第三个晚上就注意到了这个人。 「他的呼吸比正常人慢。」苏晚晚上在舱房里对沈渊说，「慢很多。每分钟大概只有六七次。」 「你能听出来呼吸频率？」 「现在能了。」 苏晚的回答越来越简短了。不是因为不耐烦，是因为她的感知能力在增长。练了五",
+            "entities": [
+              "020",
+              "编号"
+            ],
+            "events": [
+              "时间线",
+              "封印",
+              "死亡",
+              "身份"
+            ],
+            "locations": [],
+            "foreshadow_refs": [
+              "编号",
+              "编号和净世会早上那个领头人身上的衔尾蛇纹章一模一样",
+              "坐标自从你父亲的最后一条通讯后就没有更新过"
+            ],
+            "passages": [
+              {
+                "score": 6.0,
+                "reason": {
+                  "token_overlap": 6,
+                  "entity_overlap": 0
+                },
+                "text": "「那个叫温岚的女人在船上。」男人慢慢地说，「她手里有门扉计划的数据。全部七个站的数据。你父亲留下的东西，不应该在任何人手上。你应该理解——有些门，不应该打开。」"
+              },
+              {
+                "score": 6.0,
+                "reason": {
+                  "token_overlap": 6,
+                  "entity_overlap": 0
+                },
+                "text": "「没有人知道。」温岚说，「我只知道他们在门扉计划启动之前就已经存在了。他们的存在和你父亲的研究好像是两条平行线——直到某一天，两条线交叉了。从那之后，你父亲的每一步研究，好像都有人提前知道。」"
+              }
+            ]
+          },
+          {
+            "score": 1.783,
+            "reason": {
+              "token_overlap": 1,
+              "summary_overlap": 1,
+              "entity_overlap": 0,
+              "event_overlap": 0,
+              "recency": 0.611,
+              "conflict_bonus": 0.0
+            },
+            "chapter_file": "第11章.md",
+            "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第11章.md",
+            "summary": "# 第11章 地下七百米 SP-00观测站的地下通道比沈渊想象的要深得多。台阶螺旋向下，一侧是开凿出来的岩壁，另一侧是深渊。每隔大概二十米有一盏应急灯，灯光把两个人的影子拉得老长。 苏晚数了台阶。 「一千两百三十四级了。」 「你在数？」 「反正也没别的事可做。」 沈渊回头看了她一眼。她的嘴唇还是有点白。辐射区的空气残留对她还是有影响。但她没有说，他也没有问。两个人继续往下走。台阶在某个深度突然到了尽头。前面是一条水平的隧道，岩壁上开始出现一些刻画。 不是矿场的开采标记。是人工壁画。壁画的风格不属于任何沈渊认识的文明",
+            "entities": [],
+            "events": [
+              "突破",
+              "封印",
+              "身份"
+            ],
+            "locations": [
+              "上的金属材质和他们在城",
+              "这个环形通道的规模比城",
+              "不是城",
+              "足够支撑一个中等城",
+              "需要你在港"
+            ],
+            "foreshadow_refs": [],
+            "passages": [
+              {
+                "score": 1.0,
+                "reason": {
+                  "token_overlap": 1,
+                  "entity_overlap": 0
+                },
+                "text": "# 第11章 地下七百米"
+              },
+              {
+                "score": 1.0,
+                "reason": {
+                  "token_overlap": 1,
+                  "entity_overlap": 0
+                },
+                "text": "SP-00观测站的地下通道比沈渊想象的要深得多。台阶螺旋向下，一侧是开凿出来的岩壁，另一侧是深渊。每隔大概二十米有一盏应急灯，灯光把两个人的影子拉得老长。"
+              }
+            ]
+          }
+        ],
+        "relation_snippets": [],
+        "retrieval_stats": {
+          "docs_total": 18,
+          "candidate_pool": 5,
+          "rerank_topk": 4,
+          "estimated_context_chars": 639
+        },
+        "cache_hit": false,
+        "skipped": false,
+        "trigger_reason": [
+          "查询描述较长，判定为复杂剧情"
+        ]
+      }
     }
   }
 }

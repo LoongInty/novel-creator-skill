@@ -1,0 +1,50 @@
+{
+  "chapter_file": "第5章.md",
+  "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第5章.md",
+  "chapter_no": 5,
+  "mtime": 1783343500.9180903,
+  "summary": "# 第5章 不要惹一个正在想事情的人 沈渊站在操场边上，把嘴里咬断的半截草茎吐掉。 操场上的局面很清晰。对方十二个人，统一制服，金色门徽。两个控制着周奶奶。三个堵在宿舍楼门口，应该是防止孩子们出来。剩下七个分散在操场各处，站位刚好覆盖了所有可能的逃跑路线。 又是这种标准的警戒阵型。 最近这种阵型出现得有点太多了。沈渊很想跟他们说一句，你们的阵型在我眼里跟没布一样。但他忍住了。现在是早上。操场上有光。孩子们在楼里。周奶奶脸上的血还没干。 ",
+  "entities": [
+    "编号"
+  ],
+  "events": [
+    "穿越",
+    "时间线"
+  ],
+  "locations": [
+    "宿舍楼",
+    "孤儿院的两个楼",
+    "加油站对面的废弃居民楼二楼",
+    "对面楼",
+    "废墟楼",
+    "三个堵在宿舍楼"
+  ],
+  "foreshadow_refs": [
+    "线索",
+    "坐标标注在世界各地的七个位置",
+    "编号：SP-01，SP-02，SP-03……一直到SP-07",
+    "坐标上"
+  ],
+  "keywords": [
+    "沈渊",
+    "个人",
+    "周奶",
+    "奶奶",
+    "周奶奶",
+    "没有",
+    "了一",
+    "操场",
+    "上的",
+    "十二",
+    "二个",
+    "十二个",
+    "人的",
+    "领头",
+    "知道",
+    "二个人",
+    "十二个人",
+    "头人"
+  ],
+  "conflict_level": "unknown",
+  "meta_file": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/00_memory/retrieval/chapter_meta/第5章.meta.json"
+}

@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-07-06 21:07:33",
+  "project_root": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill",
+  "chapter_file": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第1章-开篇待写.md",
+  "chapter_id": "第1章-开篇待写",
+  "passed": false,
+  "checks": [
+    {
+      "name": "chapter_storage_policy",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第1章-开篇待写.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "knowledge_base_isolation",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/02_knowledge_base",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "memory_update",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第1章-开篇待写/memory_update.md",
+      "ok": false,
+      "message": "文件不存在"
+    },
+    {
+      "name": "consistency_report",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第1章-开篇待写/consistency_report.md",
+      "ok": false,
+      "message": "文件不存在"
+    },
+    {
+      "name": "style_calibration",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第1章-开篇待写/style_calibration.md",
+      "ok": false,
+      "message": "文件不存在"
+    },
+    {
+      "name": "copyedit_report",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第1章-开篇待写/copyedit_report.md",
+      "ok": false,
+      "message": "文件不存在"
+    },
+    {
+      "name": "publish_ready",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第1章-开篇待写/publish_ready.md",
+      "ok": false,
+      "message": "文件不存在"
+    },
+    {
+      "name": "quality_report",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第1章-开篇待写/quality_report.md",
+      "ok": false,
+      "message": "文件不存在"
+    },
+    {
+      "name": "anti_resolution_guard",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第1章-开篇待写.md",
+      "ok": true,
+      "message": "通过",
+      "details": {
+        "tail_suspense": {
+          "has_suspense": false,
+          "hits": [],
+          "tail_length": 200
+        },
+        "resolution_signals": {
+          "signal_count": 0,
+          "signals": [],
+          "risk": "low"
+        },
+        "forbidden_reveals": {
+          "revealed_count": 0,
+          "revealed": []
+        },
+        "quota_abc": {
+          "quota_a": {
+            "label": "A（主线矛盾推进）",
+            "triggered": false,
+            "hits": []
+          },
+          "quota_b": {
+            "label": "B（主要关系升级）",
+            "triggered": false,
+            "hits": []
+          },
+          "quota_c": {
+            "label": "C（核心秘密揭露）",
+            "triggered": false,
+            "hits": []
+          },
+          "triggered_count": 0,
+          "triggered_quotas": []
+        }
+      }
+    },
+    {
+      "name": "pacing_tracker",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/00_memory/pacing_history.json",
+      "ok": true,
+      "message": "通过",
+      "details": {
+        "chapter": 1,
+        "volume": null,
+        "stats": {}
+      }
+    },
+    {
+      "name": "pacing_review_semantic",
+      "path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/04_editing/gate_artifacts/第1章-开篇待写/pacing_review.md",
+      "ok": true,
+      "message": "通过"
+    }
+  ],
+  "failures": [
+    "memory_update: 文件不存在",
+    "consistency_report: 文件不存在",
+    "style_calibration: 文件不存在",
+    "copyedit_report: 文件不存在",
+    "publish_ready: 文件不存在",
+    "quality_report: 文件不存在"
+  ],
+  "warnings": [
+    "anti_resolution_guard: 章末未检测到悬念元素，建议添加钩子",
+    "pacing_tracker: 尚无节奏记录，跳过档位分布校验",
+    "pacing_review.md 不存在，已从脚本检查结果自动生成（建议在 Claude Code 中执行 /节奏审查 获取语义版本）"
+  ]
+}

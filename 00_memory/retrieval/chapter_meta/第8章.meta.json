@@ -1,0 +1,46 @@
+{
+  "chapter_file": "第8章.md",
+  "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第8章.md",
+  "chapter_no": 8,
+  "mtime": 1783343679.5928564,
+  "summary": "# 第8章 东海 五天后的黄昏，沈渊和苏晚站在东海港口的码头上。 港口还在。战争期间这里被炸过三次，但码头的主体结构奇迹般地撑住了。战后国际救援的船只要靠港卸货，所以这里的修复优先级比孤儿院高得多。到处是焊接的火花和起重机的轰鸣，柴油味和海腥味混在一起，形成一种战后港口特有的气味——铁锈、咸水、和人。 沈渊在网上用假身份订了两张船票。不是客轮——战后已经没有运营的客运航线了。是一艘从东海出发的国际人道主义援助货船，目的地是中东，中途经停",
+  "entities": [],
+  "events": [
+    "封印",
+    "身份"
+  ],
+  "locations": [
+    "东海港",
+    "沈渊和苏晚站在东海港",
+    "后国际救援的船只要靠港",
+    "形成一种战后港",
+    "就像把新安城",
+    "看着东海港"
+  ],
+  "foreshadow_refs": [
+    "坐标就是非洲",
+    "坐标"
+  ],
+  "keywords": [
+    "沈渊",
+    "苏晚",
+    "温岚",
+    "父亲",
+    "战后",
+    "没有",
+    "是一",
+    "了一",
+    "观测",
+    "测站",
+    "观测站",
+    "第一",
+    "最后",
+    "看着",
+    "数据",
+    "里的",
+    "上的",
+    "站的"
+  ],
+  "conflict_level": "unknown",
+  "meta_file": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/00_memory/retrieval/chapter_meta/第8章.meta.json"
+}

@@ -1,0 +1,47 @@
+{
+  "chapter_file": "第4章.md",
+  "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第4章.md",
+  "chapter_no": 4,
+  "mtime": 1783343444.6754885,
+  "summary": "# 第4章 父亲的名字 沈渊看着面前这个穿白大褂的女人，脑子里十几个思路同时运转。 她不惊讶。一个十一岁的孩子半夜出现在地下设施里，她没有呼叫警卫，没有按下警报，甚至没有后退一步。她端茶杯的手稳得像是在实验室里喝下午茶。 这说明两件事。 第一，她见过比这更奇怪的事。第二，她认识他父亲。 「你叫什么名字？」沈渊问。 「这话应该我问你。」女人喝了一口茶，目光在他脸上停了两秒，「不过我已经知道答案了。你叫沈渊，十一岁，住在城南的孤儿院。父亲沈",
+  "entities": [
+    "编号"
+  ],
+  "events": [
+    "回忆"
+  ],
+  "locations": [
+    "黎明前到了城",
+    "这座废墟之城",
+    "半塌的楼",
+    "住在城",
+    "他在黎明前到了城",
+    "那栋只剩下骨架的高楼"
+  ],
+  "foreshadow_refs": [
+    "坐标数据",
+    "编号"
+  ],
+  "keywords": [
+    "沈渊",
+    "没有",
+    "了一",
+    "温岚",
+    "门扉",
+    "知道",
+    "空间",
+    "父亲",
+    "有一",
+    "沈时",
+    "时安",
+    "沈时安",
+    "能量",
+    "是一",
+    "父母",
+    "扉计",
+    "计划",
+    "门扉计"
+  ],
+  "conflict_level": "medium",
+  "meta_file": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/00_memory/retrieval/chapter_meta/第4章.meta.json"
+}

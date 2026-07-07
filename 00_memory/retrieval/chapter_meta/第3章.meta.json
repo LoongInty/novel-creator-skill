@@ -1,0 +1,44 @@
+{
+  "chapter_file": "第3章.md",
+  "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第3章.md",
+  "chapter_no": 3,
+  "mtime": 1783343390.6208706,
+  "summary": "# 第3章 城北的光 第二天早上，孤儿院的围墙上多了三个红漆喷的大字。 「限期搬离」。 沈渊起来的时候看到了。几个早起的小孩围在墙根下，仰着头看那几个字，脸上的表情像是在看什么他们理解不了的东西。 板寸头小孩跑到沈渊面前：「沈哥，墙上——」 「看到了。」沈渊端着一碗稀粥，吸溜了一口，「字写得挺丑的，笔锋都没收住，一看就没练过书法。」 「不是，沈哥，那上面写的——」 「限期搬离，我认字。」沈渊又吸溜一口，「不过他们没写限期是哪天。说明他们",
+  "entities": [],
+  "events": [
+    "突破"
+  ],
+  "locations": [
+    "废楼二楼",
+    "进入之前已经计算了整栋楼",
+    "走在街",
+    "今晚按原计划去城",
+    "但是在去城",
+    "街对面那栋废楼的二楼"
+  ],
+  "foreshadow_refs": [
+    "坐标锁定仪**"
+  ],
+  "keywords": [
+    "沈渊",
+    "没有",
+    "了一",
+    "苏晚",
+    "孤儿",
+    "空间",
+    "是一",
+    "儿院",
+    "孤儿院",
+    "他的",
+    "有人",
+    "废墟",
+    "结构",
+    "到了",
+    "有一",
+    "知道",
+    "是一个",
+    "个人"
+  ],
+  "conflict_level": "medium",
+  "meta_file": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/00_memory/retrieval/chapter_meta/第3章.meta.json"
+}

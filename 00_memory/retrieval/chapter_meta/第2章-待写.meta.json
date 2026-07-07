@@ -1,20 +1,42 @@
 {
   "chapter_file": "第2章-待写.md",
-  "chapter_path": "/Users/ethan/Desktop/小说/novel-creator-skill/03_manuscript/第2章-待写.md",
+  "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第2章-待写.md",
   "chapter_no": 2,
-  "mtime": 1772966504.8915594,
-  "summary": "# 第2章 待写 <!-- NOVEL_FLOW_STUB --> ## 正文 [待写]",
+  "mtime": 1783343334.5219963,
+  "summary": "# 第2章 不速之客 周奶奶一早就站在院子里，对着门外那个穿西装的男人。 战后穿西装的人不多。不是因为买不起——虽然确实大部分人买不起——而是因为穿西装意味着你要去某个不需要在废墟里翻东西的地方。而这种地方在战后，通常不是好事。 这个男人大概四十出头，西装是深灰色的，袖口磨得有点发白，但领带打得一丝不苟。他身后跟着两个年轻人，都穿着深色夹克，手揣在兜里，站姿像两棵被风吹歪的树。 沈渊坐在操场边的梧桐树下，嘴里又叼了一根草茎。 他其实不太",
   "entities": [],
-  "events": [],
-  "locations": [],
+  "events": [
+    "身份"
+  ],
+  "locations": [
+    "印刷厂",
+    "战前是小学校",
+    "这条街",
+    "新安街",
+    "楼顶可以看到整个城",
+    "现有的孤儿院可以并入城"
+  ],
   "foreshadow_refs": [],
   "keywords": [
-    "待写",
-    "正文",
-    "novel",
-    "flow",
-    "stub"
+    "沈渊",
+    "西装",
+    "男人",
+    "文件",
+    "周奶",
+    "奶奶",
+    "周奶奶",
+    "战后",
+    "装男",
+    "西装男",
+    "装男人",
+    "西装男人",
+    "了一",
+    "孤儿",
+    "儿院",
+    "孤儿院",
+    "规划",
+    "临时"
   ],
   "conflict_level": "unknown",
-  "meta_file": "/Users/ethan/Desktop/小说/novel-creator-skill/00_memory/retrieval/chapter_meta/第2章-待写.meta.json"
+  "meta_file": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/00_memory/retrieval/chapter_meta/第2章-待写.meta.json"
 }

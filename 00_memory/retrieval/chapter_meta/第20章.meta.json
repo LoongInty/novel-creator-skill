@@ -1,0 +1,55 @@
+{
+  "chapter_file": "第20章.md",
+  "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第20章.md",
+  "chapter_no": 20,
+  "mtime": 1783345109.851056,
+  "summary": "# 第20章 第三条路 沈渊迈出了第一步。然后是第二步。 顾念在身后低喊了一声：「沈渊——」 他没停。第三步。第四步。他的步幅不大，节奏均匀，和平时在操场上走路的速度差不多。不是冲。不是逃。就是一个叼着草茎的孤儿院出来的少年，在一个不应该属于他的地下设施里，朝着一个活了几十年的老狐狸走过去。 第五步。第六步。 广播里所长没有出声。喇叭里只有一种很轻很轻的电流声——不是设备底噪，是一个人在话筒前屏住呼吸的时候才会发出来的那种静。他在等。等",
+  "entities": [
+    "001",
+    "003",
+    "编号"
+  ],
+  "events": [
+    "势力",
+    "秘密",
+    "封印"
+  ],
+  "locations": [
+    "裂隙是桥",
+    "我的人已经在下楼",
+    "裂隙桥",
+    "一刻裂隙帮你校准过的桥",
+    "必须是桥",
+    "上去了食堂后面的实验楼"
+  ],
+  "foreshadow_refs": [
+    "编号",
+    "编号的格式",
+    "名单（第一版）」「彼岸组织第一次接触记录」「沈时安研究报告——未删减",
+    "名单不是系统选的",
+    "名单里",
+    "编号001"
+  ],
+  "keywords": [
+    "沈渊",
+    "了一",
+    "没有",
+    "裂隙",
+    "的人",
+    "有一",
+    "学院",
+    "的时",
+    "的时候",
+    "白鹿",
+    "是一",
+    "记录",
+    "知道",
+    "到了",
+    "日记",
+    "第一",
+    "他的",
+    "走廊"
+  ],
+  "conflict_level": "high",
+  "meta_file": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/00_memory/retrieval/chapter_meta/第20章.meta.json"
+}

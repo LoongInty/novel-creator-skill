@@ -1,0 +1,49 @@
+{
+  "chapter_file": "第17章.md",
+  "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第17章.md",
+  "chapter_no": 17,
+  "mtime": 1783344176.2848313,
+  "summary": "# 第17章 归程 半年后。零号基地已经不再是\"零号基地\"了。它在沈渊离开的时候是一口矿井加一个球形空腔加七十三台机器人。回来的时候是一个地下城。 采矿作业区从一条手工矿道扩展到了四条全自动矿道。渊素矿的日产量从八吨提升到三十二吨。能量转换器的数量从四台变成了十六台并联。工业机器人的数量翻了整整三倍——两百二十台，其中五十台是纳米级的微型维修机器人，能用比发丝还细的机械臂钻进设备的任何一个角落。 武器生产线已经可以批次生产多型号的护卫无",
+  "entities": [
+    "编号"
+  ],
+  "events": [
+    "突破",
+    "封印",
+    "真相"
+  ],
+  "locations": [
+    "一座地下城",
+    "回来的时候是一个地下城",
+    "基地驻外大使馆",
+    "盖了零号基地和蒙巴萨港",
+    "温岚仍然在港",
+    "半年后他从一座地下城"
+  ],
+  "foreshadow_refs": [
+    "编号排列归位",
+    "线索"
+  ],
+  "keywords": [
+    "基地",
+    "净世",
+    "世会",
+    "净世会",
+    "酒鬼",
+    "沈渊",
+    "裂隙",
+    "苏晚",
+    "零号",
+    "号基",
+    "零号基",
+    "号基地",
+    "零号基地",
+    "的时",
+    "机器",
+    "地的",
+    "基地的",
+    "所有"
+  ],
+  "conflict_level": "medium",
+  "meta_file": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/00_memory/retrieval/chapter_meta/第17章.meta.json"
+}

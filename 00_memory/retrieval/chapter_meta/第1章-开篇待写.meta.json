@@ -1,35 +1,44 @@
 {
   "chapter_file": "第1章-开篇待写.md",
-  "chapter_path": "/Users/ethan/Desktop/小说/novel-creator-skill/03_manuscript/第1章-开篇待写.md",
+  "chapter_path": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/03_manuscript/第1章-开篇待写.md",
   "chapter_no": 1,
-  "mtime": 1772966504.6585677,
-  "summary": "# 第1章 开篇 <!-- NOVEL_FLOW_STUB --> ## 本章目标 - 建立主角目标：明确主角核心目标 - 落地核心冲突：主线冲突待细化 ## 场景草图 - 起始地点： - 冲突触发点： - 章末钩子： ## 正文 [待写]",
-  "entities": [],
-  "events": [
-    "冲突"
+  "mtime": 1783343244.6265593,
+  "summary": "# 第1章 战后孤儿院 战争结束的第二年，沈渊十一岁。 说是战争结束，其实谁也不知道算不算真的结束。停战协议签了，但非洲的核冬天还没散干净，全球的卫星网络只剩下战前不到三成还能用，各国的技术储备被打回了石器时代——不对，是打回了蒸汽时代。至少蒸汽机不用依赖被炸毁的数据中心。 他们所在的这座城市，叫新安。 名字取得挺好，新的安宁。但城里一半以上的建筑还是废墟，剩下那一半里，有三成是战后临时搭建的铁皮房。沈渊所在的孤儿院，算是运气好的，占了",
+  "entities": [
+    "编号"
   ],
-  "locations": [],
-  "foreshadow_refs": [],
+  "events": [],
+  "locations": [
+    "脑海中检索了一遍这座城",
+    "的这座城",
+    "新安孤儿院到城",
+    "一片倒塌的居民楼",
+    "两条街",
+    "一栋废弃的办公楼二楼"
+  ],
+  "foreshadow_refs": [
+    "编号NC-A037，位于城东旧工业区，隶属于战后重建委员会"
+  ],
   "keywords": [
-    "目标",
-    "冲突",
-    "主角",
-    "核心",
-    "开篇",
-    "本章",
-    "章目",
-    "本章目",
-    "章目标",
-    "本章目标",
-    "建立",
-    "立主",
-    "角目",
-    "建立主",
-    "立主角",
-    "主角目",
-    "角目标",
-    "建立主角"
+    "沈渊",
+    "了一",
+    "没有",
+    "知道",
+    "小豆",
+    "豆子",
+    "小豆子",
+    "战后",
+    "孤儿",
+    "儿院",
+    "孤儿院",
+    "周奶",
+    "奶奶",
+    "周奶奶",
+    "他的",
+    "仓库",
+    "的时",
+    "的时候"
   ],
-  "conflict_level": "medium",
-  "meta_file": "/Users/ethan/Desktop/小说/novel-creator-skill/00_memory/retrieval/chapter_meta/第1章-开篇待写.meta.json"
+  "conflict_level": "unknown",
+  "meta_file": "/Users/wangjiehui/Desktop/文档/ai_recreation/novel/skill-test/.trae/skills/novel-creator-skill/00_memory/retrieval/chapter_meta/第1章-开篇待写.meta.json"
 }
